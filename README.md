@@ -1,1 +1,1 @@
-# 安卓手机通过Termux安装Linux
+# 安卓手机安装Linux
