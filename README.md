@@ -1,2 +1,1 @@
-# Android-install-Linux
-安卓手机通过termux安装Linux
+# 安卓手机通过Termux安装Linux
