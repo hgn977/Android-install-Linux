@@ -35,4 +35,4 @@ pkg install termux-x11-nightly tur-repo pulseaudio proot-distro wget git
 
 | Trisquel | Debian | 
 |---|---|
-| <a href="/proot/debian_install.md"><img src="images/debian_ico.PNG" alt="debian_loge" width="100"></a> |
+| <a href="/proot/trisquel_install.md"><img src="images/trisquel_ico.PNG" alt="trisquel_loge" width="100"></a> | <a href="/proot/debian_install.md"><img src="images/debian_ico.PNG" alt="debian_loge" width="100"></a> |
