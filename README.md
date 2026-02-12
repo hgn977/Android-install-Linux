@@ -31,7 +31,7 @@ pkg install x11-repo
 pkg install termux-x11-nightly tur-repo pulseaudio proot-distro wget git
 ```
 
-## 3.安装Linux
+## 3.选择要安装的Linux
 
 | Trisquel | Debian | 
 |---|---|
